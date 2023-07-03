@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "name": "Gourav Sahu",
+      "age": "22",
+      "place": "Durg",
+      "batch_name": "WEB-20",
+      "profession": "Backend",
+      "id": 1
+    },
+    {
+      "name": "Gourav Sahu",
+      "age": "23",
+      "place": "Durg",
+      "batch_name": "WEB-20",
+      "profession": "FSD",
+      "id": 2
+    },
+    {
+      "name": "Gourav Sahu",
+      "age": "24",
+      "place": "Durg",
+      "batch_name": "WEB-20",
+      "profession": "FSD",
+      "id": 3
+    },
+    {
+      "name": "Gourav Sahu",
+      "age": "25",
+      "place": "Durg",
+      "batch_name": "WEB-20",
+      "profession": "Student",
+      "id": 4
+    },
+    {
+      "name": "Gourav Sahu",
+      "age": "26",
+      "place": "Durg",
+      "batch_name": "WEB-20",
+      "profession": "Student",
+      "id": 5
+    },
+    {
+      "name": "Gourav Sahu",
+      "age": "27",
+      "place": "Durg",
+      "batch_name": "WEB-20",
+      "profession": "Backend",
+      "id": 6
+    },
+    {
+      "name": "Gourav Sahu",
+      "age": "22",
+      "place": "Durg",
+      "batch_name": "WEB-20",
+      "profession": "Backend",
+      "id": 7
+    },
+    {
+      "name": "Gourav Sahu",
+      "age": "22",
+      "place": "Durg",
+      "batch_name": "WEB-20",
+      "profession": "Backend",
+      "id": 8
+    },
+    {
+      "name": "Gourav Sahu",
+      "age": "22",
+      "place": "Durg",
+      "batch_name": "WEB-20",
+      "profession": "Backend",
+      "id": 9
+    }
+  ]
+}
